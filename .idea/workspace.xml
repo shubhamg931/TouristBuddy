@@ -47,8 +47,8 @@
       <file leaf-file-name="MapScreen.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/screens/MapScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="332" column="46" lean-forward="true" selection-start-line="332" selection-start-column="46" selection-end-line="332" selection-end-column="46" />
+            <state relative-caret-position="299">
+              <caret line="336" column="31" selection-start-line="336" selection-start-column="31" selection-end-line="336" selection-end-column="31" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -59,8 +59,8 @@
       <file leaf-file-name="InfoScreen.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/screens/InfoScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            <state relative-caret-position="620">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -72,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/screens/WelcomeScreen.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -83,8 +83,8 @@
       <file leaf-file-name="Slides.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/Slides.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="70" lean-forward="true" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+            <state relative-caret-position="180">
+              <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -167,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,6 +203,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,26 +260,26 @@
       <workItem from="1532625943215" duration="99000" />
       <workItem from="1532626847610" duration="3143000" />
       <workItem from="1532631319447" duration="1766000" />
+      <workItem from="1532634302765" duration="239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115973000" />
+    <option name="totallyTimeSpent" value="116212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="21" width="1317" height="747" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17705928" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17705928" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="6" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.31993568" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.31993568" />
       <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -607,7 +607,7 @@
     <entry file="file://$PROJECT_DIR$/screens/WelcomeScreen.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -616,8 +616,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/Slides.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="70" lean-forward="true" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+        <state relative-caret-position="180">
+          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -626,8 +626,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/screens/InfoScreen.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        <state relative-caret-position="620">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -636,8 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/screens/MapScreen.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="332" column="46" lean-forward="true" selection-start-line="332" selection-start-column="46" selection-end-line="332" selection-end-column="46" />
+        <state relative-caret-position="299">
+          <caret line="336" column="31" selection-start-line="336" selection-start-column="31" selection-end-line="336" selection-end-column="31" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
