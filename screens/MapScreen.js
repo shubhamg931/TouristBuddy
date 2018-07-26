@@ -330,7 +330,7 @@ class MapScreen extends Component {
                             <Content>
                                 <Card>
                                     <CardItem header>
-                                        <Text>this.state.data.</Text>
+                                        <Text>Bus name</Text>
                                     </CardItem>
                                     <CardItem>
                                         <Body>
