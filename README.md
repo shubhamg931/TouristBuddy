@@ -26,3 +26,6 @@ This shall be a boost to Tourism Industry and a life changer for a common man of
 >>We use Dijkstra’s Algorithm for calculating the shortest path from start to end location in a computationally fast time
 
 For Further Details,use the following link: <a href="https://docs.google.com/presentation/d/1YhTBhIcf8yZ71nHmV3eXkfKzkq2FmLW6ZDaUUz6IEOY/edit?usp=sharing">https://docs.google.com/presentation/d/1YhTBhIcf8yZ71nHmV3eXkfKzkq2FmLW6ZDaUUz6IEOY/edit?usp=sharing</a>
+
+![Alt text](https://github.com/shubhamg931/digifest-destroyers-touristBuddy/blob/master/assets/logo.jpeg)
+
