@@ -12,7 +12,7 @@ import 'firebase/firestore';
 import ignoreWarnings from 'react-native-ignore-warnings';
 import {Root} from "native-base";
 
-ignoreWarnings(['Setting a timer']);
+ignoreWarnings(['Setting a timer']);  //setting timer
 
 export default class App extends React.Component {
     constructor(props) {
@@ -30,13 +30,13 @@ export default class App extends React.Component {
             storageBucket: "touristbuddy-931.appspot.com",
             messagingSenderId: "333888298142"
         };
-        firebase.initializeApp(config);
+        firebase.initializeApp(config);   //initializing firebase
 
         await Expo.Font.loadAsync({
             'Roboto': require('native-base/Fonts/Roboto.ttf'),
             'Roboto_medium': require('native-base/Fonts/Roboto_medium.ttf'),
         });
-        this.setState({ loading: false });
+        this.setState({ loading: false });     //set loading to false
     }
 
     render() {
@@ -53,7 +53,7 @@ export default class App extends React.Component {
 
 
         if(this.state.loading)
-            return <Expo.AppLoading />;
+            return <Expo.AppLoading />;    
 
         return (
             <Provider store={store}>
